@@ -1,0 +1,16 @@
+{
+  "name": "@nuxtjs/i18n-playground",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "latest",
+    "nuxt": "^3.12.4"
+  }
+}
